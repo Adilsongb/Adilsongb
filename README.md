@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🚀 Habilidades: <strong>HTML, CSS, JavaScript, Java, Bootstrap.</strong>
+  🚀 Habilidades: <strong>HTML, CSS, JavaScript, React, Java, Bootstrap.</strong>
 </p>
 
 <p align="left">

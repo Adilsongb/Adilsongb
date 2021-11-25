@@ -27,3 +27,6 @@
 </p>
 
 ### 🍀 Status
+
+<img src="https://github-readme-stats.vercel.app/api?username=adilsongb&show_icons=true&hide_border=true&theme=cobalt" align="left" width="359px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsongb&hide=html&hide_border=true&layout=compact&theme=cobalt" width="350px">

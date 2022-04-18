@@ -3,15 +3,15 @@
 <img src="img/gif-animation-1.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
-  😄 Meu nome é Adilson Gabriel e sou estudande de <strong>Desenvolvimento Web</strong>.
+  😄 Meu nome é <strong>Adilson Gabriel</strong> e sou estudande de <strong>Desenvolvimento Web</strong>.
 </p>
 
 <p align="left">
-  🚀 Habilidades: <strong>HTML, CSS, JavaScript, React, Java, Bootstrap.</strong>
+  🚀 Habilidades: <strong>HTML, CSS, JavaScript, React, Redux, Context API, Firebase, Node.js, Express.js, Typescript, MySQL, MongoDB.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Trello, Vercel, GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, Trello, Vercel, Heroku, Figma, GitHub.</strong>
 </p>
 
 <p align="left">

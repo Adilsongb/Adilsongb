@@ -1,7 +1,5 @@
 ## 👾 Hello world!
 
-<img src="img/gif-animation-1.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
-
 <p align="left"> 
   😄 Meu nome é <strong>Adilson Gabriel</strong> e sou <strong>Desenvolvedor Web FullStack</strong>.
 </p>
